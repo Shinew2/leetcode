@@ -1,2 +1,2 @@
 # leetcode
-solution summary of leetcode practice 
+Solution summary of my leetcode practice 
